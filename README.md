@@ -1,7 +1,7 @@
 <h1 align="center"> Meu Currículo </h1>
 
 <p align="center">
-  <img alt="License" src="Downloads/curr.png">
+  ![Image](https://github.com/user-attachments/assets/e3685695-0ad8-4d58-9b7f-2846196e4bee)
 </p>
 
 ## 🚀 Tecnologias
