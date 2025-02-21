@@ -1,7 +1,8 @@
 <h1 align="center"> Meu Currículo </h1>
 
-![Image](https://github.com/user-attachments/assets/add44f0a-0bf7-40a0-999b-52c74647cde5)
-![Image](https://github.com/user-attachments/assets/297931ec-7b21-4368-88aa-35b744c01aff)
+![Image](https://github.com/user-attachments/assets/095aa6d5-e409-4bc0-a45f-f94b88640c70)
+![Image](https://github.com/user-attachments/assets/aca9606e-173b-4fc7-a44e-73410fc6d76b)
+![Image](https://github.com/user-attachments/assets/84971115-eb8a-4343-baee-c1eca3b9eda5)
 
 ## 🚀 Tecnologias
 
