@@ -6,7 +6,23 @@
 
 ## 🚀 Tecnologias
 
+
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Git e Github
+
+
+:
+
+## 💼 Meu Currículo Responsivo
+
+Este é o meu currículo online, desenvolvido com HTML e CSS, totalmente responsivo para qualquer tamanho de tela 📱💻.
+
+🚀 Tecnologias utilizadas:
+- HTML5 para a estrutura
+- CSS3 para o design e responsividade
+- Media Queries para adaptação a diferentes dispositivos
+
+
