@@ -1,4 +1,41 @@
 /* Tablet 768px */
+@media screen and (max-width: 1440px) {
+    .container .h-habilidades .item {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    /* Experiencia */
+    .container .h-experiencia .h-itens .item {
+        margin-bottom: 50px;
+    }
+
+    .container .h-experiencia .h-itens .item .work{
+        margin-right: 15px;
+        min-width: 25%;
+    }
+
+    .container .h-educacao .h-title-educacao h2{
+        margin-top: 5%;
+        font-size: 22px;
+    }
+    .container .h-educacao .item{
+        margin-bottom: 50px;
+    }
+    .container .h-educacao .item .title{
+        margin-bottom: 20px;
+    }
+    .container .h-educacao .item .title h2{
+        font-size: 22px;
+    }
+    .container .h-educacao .item .title span{
+        font-size: 22px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .container .h-habilidades .item {
         display: flex;
@@ -11,6 +48,28 @@
     /* Experiencia */
     .container .h-experiencia .h-itens .item {
         margin-bottom: 50px;
+    }
+
+    .container .h-experiencia .h-itens .item .work{
+        margin-right: 15px;
+        min-width: 25%;
+    }
+
+    .container .h-educacao .h-title-educacao h2{
+        margin-top: 5%;
+        font-size: 22px;
+    }
+    .container .h-educacao .item{
+        margin-bottom: 50px;
+    }
+    .container .h-educacao .item .title{
+        margin-bottom: 20px;
+    }
+    .container .h-educacao .item .title h2{
+        font-size: 22px;
+    }
+    .container .h-educacao .item .title span{
+        font-size: 22px;
     }
 }
 /* Mobile 425px  */
@@ -201,4 +260,70 @@
         margin-top: 5%;
         font-size: 22px;
     }
+}
+
+@media screen and (max-width: 285px) {
+    .container .h-projetos .h-title-projetos h2::after {
+        margin-top: 12px;
+        content: "";
+        display: block;
+        width: 100%;
+        height: 2px;
+        background-color: #00E0FF;
+    }
+    .container .h-projetos .h-title-projetos {
+        border-bottom: none; /* Remove a borda antiga */
+    }
+}
+
+@media screen and (max-width: 558px) {
+    .container .h-experiencia .h-itens .item{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        min-height: 120px;
+    }
+
+    .container .h-experiencia .h-itens .item{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        min-height: 220px;
+        margin-bottom: 50px;
+    }
+    .container .h-experiencia .h-itens .item .work{
+        min-width: 100%;
+        min-height: 80px;
+    }
+    .container .h-experiencia .h-itens .item .work h2{
+        text-align: center;
+    }
+    .container .h-experiencia .h-itens .item .work p{
+        text-align: center;
+    }
+    .container .h-experiencia .h-itens .item .description {
+        width: 100%;
+        min-height: 100px;
+    }
+    .container .h-experiencia .h-itens .item .description h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .container .h-educacao .h-title-educacao h2{
+        margin-top: 5%;
+        font-size: 22px;
+    }
+    .container .h-educacao .item{
+        margin-bottom: 50px;
+    }
+    .container .h-educacao .item .title{
+        margin-bottom: 20px;
+    }
+    .container .h-educacao .item .title h2{
+        font-size: 22px;
+    }
+    .container .h-educacao .item .title span{
+        font-size: 22px;
+    }   
 }
